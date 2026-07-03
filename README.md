@@ -59,12 +59,12 @@ A machine learning model to predict employee attrition and identify key factors 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adarshraj06&theme=dark&show_icons=true&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adarshraj06&theme=dark&hide_border=true)
+**Total Contributions** | **Repositories** | **Followers**
+---|---|---
+Coming Soon | [View All](https://github.com/Adarshraj06?tab=repositories) | [Follow](https://github.com/Adarshraj06)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshraj06&theme=dark&layout=compact&hide_border=true)
+![GitHub Activity](https://img.shields.io/github/last-commit/Adarshraj06/Adarshraj06?style=flat-square&label=Last%20Update)
 
 </div>
 
@@ -72,17 +72,17 @@ A machine learning model to predict employee attrition and identify key factors 
 
 ## 🏆 Achievements
 
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Adarshraj06&theme=dark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ### 🎖 Certifications & Badges
 - 📜 **IBM Data Science Professional Certificate** - In Progress
 - 📚 **NPTEL Certifications** - Coming Soon
 - 🏅 **LeetCode** - Active Learner
 - 🚀 **Open Source Contributions** - Regular Contributor
+
+### 📈 Highlights
+- 💻 Building ML & Data Science projects
+- 🔧 Proficient in Python & C++
+- 📊 Data Analysis & Visualization
+- 🌐 Active in open-source community
 
 ---
 
@@ -106,6 +106,6 @@ A machine learning model to predict employee attrition and identify key factors 
 ⭐ Feel free to explore my repositories and connect with me!  
 Let's learn and grow together! 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=Adarshraj06&color=blue&style=flat-square)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue?style=flat-square)
 
 </div>
