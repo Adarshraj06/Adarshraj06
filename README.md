@@ -1,0 +1,103 @@
+<!-- Animated Introduction -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Adarsh+Raj;Computer+Science+Undergraduate;Aspiring+Data+Scientist;ML+Enthusiast+|+Problem+Solver;Data+Science;Machine+Learning;Python+Developer;C%2B%2B+Programmer;Open+Source+Learner" alt="Typing SVG" />
+</div>
+
+---
+
+## 🛠 Tech Stack
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Data Science & ML Libraries
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+### ⭐ Employee Attrition Predictor
+A machine learning model to predict employee attrition and identify key factors influencing departure decisions.
+
+**Tech Stack:** Python | Pandas | Scikit-Learn | Matplotlib
+- 🔗 [View Repository](https://github.com/Adarshraj06/Employee-Attrition-Predictor)
+- 🎯 [Live Demo](#)
+
+**Key Features:**
+- Data preprocessing and EDA
+- Multiple ML algorithms comparison
+- Feature importance analysis
+- Predictive accuracy: 85%+
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adarshraj06&theme=dark&show_icons=true&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adarshraj06&theme=dark&hide_border=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshraj06&theme=dark&layout=compact&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Adarshraj06&theme=dark&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+### 🎖 Certifications & Badges
+- 📜 **IBM Data Science Professional Certificate** - In Progress
+- 📚 **NPTEL Certifications** - Coming Soon
+- 🏅 **LeetCode** - Active Learner
+- 🚀 **Open Source Contributions** - Regular Contributor
+
+---
+
+### 🐍 Contribution Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Adarshraj06&theme=dark-dimmed&hide_border=true)
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarshraj06)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshraj06@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/adarshraj06)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarshraj06)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Data tells stories, code builds dreams, and passion drives innovation."*
+
+⭐ Feel free to explore my repositories and connect with me! Let's learn and grow together!
+
+![Views](https://komarev.com/ghpvc/?username=Adarshraj06&color=blue&style=flat-square)
+
+</div>
