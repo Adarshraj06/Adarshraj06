@@ -1,6 +1,17 @@
 <!-- Animated Introduction -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Adarsh+Raj;Computer+Science+Undergraduate;Aspiring+Data+Scientist;ML+Enthusiast+|+Problem+Solver;Data+Science;Machine+Learning;Python+Developer;C%2B%2B+Programmer;Open+Source+Learner" alt="Typing SVG" />
+  
+# 👋 Hi, I'm Adarsh Raj
+
+**Computer Science Undergraduate**  
+*Aspiring Data Scientist | ML Enthusiast | Problem Solver*
+
+### 🎯 What I Do:
+```
+✨ Data Science       ✨ Machine Learning      ✨ Python Development
+✨ C++ Programming    ✨ Problem Solving       ✨ Open Source Learning
+```
+
 </div>
 
 ---
@@ -32,15 +43,16 @@
 ### ⭐ Employee Attrition Predictor
 A machine learning model to predict employee attrition and identify key factors influencing departure decisions.
 
-**Tech Stack:** Python | Pandas | Scikit-Learn | Matplotlib
+**Tech Stack:** `Python` `Pandas` `Scikit-Learn` `Matplotlib`
+
 - 🔗 [View Repository](https://github.com/Adarshraj06/Employee-Attrition-Predictor)
 - 🎯 [Live Demo](#)
 
 **Key Features:**
-- Data preprocessing and EDA
-- Multiple ML algorithms comparison
-- Feature importance analysis
-- Predictive accuracy: 85%+
+- ✅ Data preprocessing and EDA
+- ✅ Multiple ML algorithms comparison
+- ✅ Feature importance analysis
+- ✅ Predictive accuracy: 85%+
 
 ---
 
@@ -52,7 +64,7 @@ A machine learning model to predict employee attrition and identify key factors 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adarshraj06&theme=dark&hide_border=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshraj06&theme=dark&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshraj06&theme=dark&layout=compact&hide_border=true)
 
 </div>
 
@@ -62,7 +74,7 @@ A machine learning model to predict employee attrition and identify key factors 
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Adarshraj06&theme=dark&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Adarshraj06&theme=dark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -74,17 +86,12 @@ A machine learning model to predict employee attrition and identify key factors 
 
 ---
 
-### 🐍 Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Adarshraj06&theme=dark-dimmed&hide_border=true)
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarshraj06)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshraj06@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/adarshraj06)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarshraj06)
 
@@ -96,8 +103,9 @@ A machine learning model to predict employee attrition and identify key factors 
 
 ### 💡 *"Data tells stories, code builds dreams, and passion drives innovation."*
 
-⭐ Feel free to explore my repositories and connect with me! Let's learn and grow together!
+⭐ Feel free to explore my repositories and connect with me!  
+Let's learn and grow together! 🚀
 
-![Views](https://komarev.com/ghpvc/?username=Adarshraj06&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Adarshraj06&color=blue&style=flat-square)
 
 </div>
