@@ -21,12 +21,11 @@
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -41,18 +40,18 @@
 ## 📂 Featured Projects
 
 ### ⭐ Employee Attrition Predictor
-A machine learning model to predict employee attrition and identify key factors influencing departure decisions.
-
-**Tech Stack:** `Python` `Pandas` `Scikit-Learn` `Matplotlib`
+The primary objective of this project, Employee Attrition Predictor, is to develop a machine learning-based solution capable of predicting whether an employee is likely to leave an organization. This predictive model aims to assist Human Resource (HR) departments in making informed decisions related to workforce retention, recruitment strategies, and employee satisfaction improvement.
+**Tech Stack:** `Python` `Pandas` `Scikit-Learn` `Matplotlib` `seaborn`
+**ML Models:** `Logistic Regression` `Decision Tree Classifier`
 
 - 🔗 [View Repository](https://github.com/Adarshraj06/Employee-Attrition-Predictor)
-- 🎯 [Live Demo](#)
+- 🎯 [Live Demo](https://github.com/Adarshraj06/Employee-Attrition-Predictor)
 
 **Key Features:**
 - ✅ Data preprocessing and EDA
-- ✅ Multiple ML algorithms comparison
-- ✅ Feature importance analysis
-- ✅ Predictive accuracy: 85%+
+- ✅ ML algorithms : Logistic Regression and Decision Tree Classifier
+- ✅ Logistic Regression Accuracy : 82%
+- ✅ Decision Tree Accuracy : 85%
 
 ---
 ### ⭐ Portfolio Website
