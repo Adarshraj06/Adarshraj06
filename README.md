@@ -55,12 +55,27 @@ A machine learning model to predict employee attrition and identify key factors 
 - ✅ Predictive accuracy: 85%+
 
 ---
+### ⭐ Portfolio Website
+
+A personal portfolio website showcasing my projects, technical skills, certifications, and contact information in a modern, responsive design.
+
+**Tech Stack:** `HTML` `CSS` `JavaScript`
+
+- 🔗 [View Repository](https://github.com/Adarshraj06/My-Portfolio)
+- 🎯 [Live Demo](https://adarshraj06.github.io/My-Portfolio/)
+
+Key Features:
+
+✅ Responsive design for all devices
+✅ Projects and skills showcase
+✅ Contact section with social links
+✅ Clean and modern user interface
 
 ## 📊 GitHub Statistics
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adarshraj06&theme=dark&show_icons=true&hide_border=true)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adarshraj06&theme=dark&show_icons=true&hide_border=true) -->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adarshraj06&theme=dark&hide_border=true)
 
@@ -71,12 +86,12 @@ A machine learning model to predict employee attrition and identify key factors 
 ---
 
 ## 🏆 Achievements
+- 🏅 2nd Runner-up of digital Poster-Making Competition - EduRev Competition
 
-<div align="center">
 
+<!-- <div align="center">
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Adarshraj06&theme=dark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+</div> -->
 
 ### 🎖 Certifications & Badges
 - 📜 **IBM Data Science Professional Certificate** - In Progress
