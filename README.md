@@ -87,17 +87,17 @@ Key Features:
 
 ## 🏆 Achievements
 - 🏅 2nd Runner-up of digital Poster-Making Competition - EduRev Competition
-
+---
 
 <!-- <div align="center">
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Adarshraj06&theme=dark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 </div> -->
 
-### 🎖 Certifications & Badges
-- 📜 **IBM Data Science Professional Certificate** - In Progress
-- 📚 **NPTEL Certifications** - Coming Soon
-- 🏅 **LeetCode** - Active Learner
-- 🚀 **Open Source Contributions** - Regular Contributor
+## 🎖 Certifications & Badges
+- 📜 **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** - [Certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=372CD3BD1F960603633C7E62CA47A6AF97307ECA8351AAFE2CB0100FC9D7C425)
+- 📚 **NPTEL Certification** Cloud Computing | IIT Kharagpur | [Certificate](https://archive.nptel.ac.in/content/noc/NOC25/SEM2/Ecertificates/106/noc25-cs107/Course/NPTEL25CS107S145870121410333032.pdf)
+- 🏅 **LeetCode** - 400+ [View Profile](https://leetcode.com/u/AdarshRaj_06/)
+<!--- 🚀 **Open Source Contributions** - Regular Contributor-->
 
 ---
 
@@ -106,7 +106,7 @@ Key Features:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarshraj06)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshraj7750@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/adarshraj06)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarshraj06)
 
