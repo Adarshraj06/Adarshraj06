@@ -64,10 +64,10 @@ A personal portfolio website showcasing my projects, technical skills, certifica
 - 🎯 [Live Demo](https://adarshraj06.github.io/My-Portfolio/)
 
 Key Features:
-✅ Responsive design for all devices
-✅ Projects and skills showcase
-✅ Contact section with social links
-✅ Clean and modern user interface
+- ✅ Responsive design for all devices
+- ✅ Projects and skills showcase
+- ✅ Contact section with social links
+- ✅ Clean and modern user interface
 
 ---
 
@@ -79,7 +79,7 @@ Key Features:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adarshraj06&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshraj06&theme=dark&layout=compact&hide_border=true)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshraj06&theme=dark&layout=compact&hide_border=true)-->
 
 </div>
 
@@ -87,7 +87,7 @@ Key Features:
 
 ## 🏆 Achievements
 - 🏅 2nd Runner-up of digital Poster-Making Competition - EduRev Competition
----
+--
 
 <!-- <div align="center">
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Adarshraj06&theme=dark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
