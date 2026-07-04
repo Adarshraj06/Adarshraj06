@@ -63,7 +63,7 @@ A personal portfolio website showcasing my projects, technical skills, certifica
 **Tech Stack:** `HTML` `CSS` `JavaScript`
 
 - 🔗 [View Repository](https://github.com/Adarshraj06/My-Portfolio)
-- 🎯 [Live Demo](https://adarshraj06.github.io/My-Portfolio/)
+- 🎯 [View Website](https://adarshraj06.github.io/My-Portfolio/)
 
 Key Features:
 - ✅ Responsive design for all devices
