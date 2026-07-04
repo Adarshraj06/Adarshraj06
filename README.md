@@ -53,7 +53,7 @@ The primary objective of this project, Employee Attrition Predictor, is to devel
 - ✅ Logistic Regression Accuracy : 82%
 - ✅ Decision Tree Accuracy : 85%
 
----
+
 ### ⭐ Portfolio Website
 
 A personal portfolio website showcasing my projects, technical skills, certifications, and contact information in a modern, responsive design.
@@ -64,11 +64,12 @@ A personal portfolio website showcasing my projects, technical skills, certifica
 - 🎯 [Live Demo](https://adarshraj06.github.io/My-Portfolio/)
 
 Key Features:
-
 ✅ Responsive design for all devices
 ✅ Projects and skills showcase
 ✅ Contact section with social links
 ✅ Clean and modern user interface
+
+---
 
 ## 📊 GitHub Statistics
 
