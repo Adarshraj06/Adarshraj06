@@ -54,6 +54,8 @@ The primary objective of this project, Employee Attrition Predictor, is to devel
 - ✅ Decision Tree Accuracy : 85%
 
 
+
+
 ### ⭐ Portfolio Website
 
 A personal portfolio website showcasing my projects, technical skills, certifications, and contact information in a modern, responsive design.
@@ -87,7 +89,7 @@ Key Features:
 
 ## 🏆 Achievements
 - 🏅 2nd Runner-up of digital Poster-Making Competition - EduRev Competition
---
+---
 
 <!-- <div align="center">
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Adarshraj06&theme=dark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
