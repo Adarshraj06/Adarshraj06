@@ -47,7 +47,7 @@ A lightweight CRUD (Create, Read, Update, Delete) web application built with Fla
 **Tech Stack:** `Python` `Flask` `SQLite` `HTML` `Docker`
 
 - 🔗 [View Repository](https://github.com/Adarshraj06/QuickList)
-- 🎯 [Live Demo](#) *(Coming Soon)*
+- 🎯 [Live Demo](https://adarshraj06.github.io/QuickList/)
 
 **Key Features:**
 - ✅ Complete CRUD functionality (Create, Read, Update, Delete)
