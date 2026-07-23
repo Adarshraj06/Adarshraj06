@@ -40,6 +40,24 @@
 
 ## 📂 Featured Projects
 
+### ⭐ Flask CRUD Application
+
+A lightweight CRUD (Create, Read, Update, Delete) web application built with Flask and SQLite. The application provides both a user-friendly web interface and RESTful API endpoints for managing items, demonstrating backend development fundamentals, database operations, and Docker containerization.
+
+**Tech Stack:** `Python` `Flask` `SQLite` `HTML` `Docker`
+
+- 🔗 [View Repository](https://github.com/Adarshraj06/QuickList)
+- 🎯 [Live Demo](#) *(Coming Soon)*
+
+**Key Features:**
+- ✅ Complete CRUD functionality (Create, Read, Update, Delete)
+- ✅ RESTful API endpoints for item management
+- ✅ SQLite database integration
+- ✅ Dockerized application for easy deployment
+- ✅ Health check endpoint for monitoring
+- ✅ Simple and responsive web interface
+
+
 ### ⭐ Employee Attrition Predictor
 The primary objective of this project, Employee Attrition Predictor, is to develop a machine learning-based solution capable of predicting whether an employee is likely to leave an organization. This predictive model aims to assist Human Resource (HR) departments in making informed decisions related to workforce retention, recruitment strategies, and employee satisfaction improvement.
 **Tech Stack:** `Python` `Pandas` `Scikit-Learn` `Matplotlib` `seaborn`
